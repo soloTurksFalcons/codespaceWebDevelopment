@@ -31,15 +31,15 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Flight Control Design Development of TFX-KAAN Aircraft🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a flight control design for TFX-KAAN aircraft using MATLAB/Simulink. The project involved designing and simulating the flight control system to ensure stability and performance.",
+    url: "https://www.tusas.com/en/products/aircraft/indigenous-development/tf",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Flight Dynamics Toolbox for Trim and Linearization of Nonlinear Aircraft Models",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Developed a MATLAB toolbox for aircraft dynamics analysis, including trim and linearization of nonlinear models. The toolbox provides a user-friendly interface for analyzing and simulating aircraft dynamics.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
