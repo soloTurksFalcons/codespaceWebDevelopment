@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://soloTurksFalcons.github.io/codespaceWebDevelopment",
+  "homepage": "https://soloTurksFalcons.github.io/codespaceWebDevelopment",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
